@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome! 👋
+
+My name is Grant and I am currently a backend engineering student at Turing School of Software & Design. 
+
+Please feel free to reach out to me if you have any questions!
 
 <!--
 **grantdavis303/grantdavis303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
