@@ -4,6 +4,12 @@ My name is Grant and I am currently a backend engineering student at Turing Scho
 
 Please feel free to reach out to me if you have any questions!
 
+My Time at Turing:
+
+- M1 Project Reflections
+- M2 Intermission Work
+
+
 <!--
 **grantdavis303/grantdavis303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
