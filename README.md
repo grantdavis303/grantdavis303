@@ -6,8 +6,8 @@ Please feel free to reach out to me if you have any questions!
 
 My Time at Turing:
 
-- M1 Project Reflections
-- M2 Intermission Work
+- [M1 Project Reflections](https://gist.github.com/grantdavis303/5125a577b496932de8a916056e56a930)
+- [M2 Intermission Work](https://gist.github.com/grantdavis303/ae196be07510a877020f58f615d998af)
 
 
 <!--
