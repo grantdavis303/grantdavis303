@@ -3,7 +3,7 @@
 My name is Grant and I am currently a backend engineering student at Turing School of Software & Design. 
 
 Please feel free to reach out to me if you have any questions!
-
+<!--
 My Time at Turing:
 
 - [M1 Project Reflections](https://gist.github.com/grantdavis303/5125a577b496932de8a916056e56a930)
