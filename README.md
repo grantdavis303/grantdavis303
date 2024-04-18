@@ -2,7 +2,6 @@
 
 My name is Grant and I am currently a backend engineering student at Turing School of Software & Design. 
 
-Please feel free to reach out to me if you have any questions!
 <!--
 My Time at Turing:
 
