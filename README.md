@@ -8,7 +8,7 @@ Basic Web Applications
 - [Coupon Codes](https://github.com/grantdavis303/coupon_codes)
 
 Working with APIs
-- [Hockey Manager - Coming Soon]()
+- [Viewing Party - Coming Soon]()
 
 <!--
 My Time at Turing:
