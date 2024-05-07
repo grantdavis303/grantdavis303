@@ -2,10 +2,13 @@
 
 My name is Grant and I am currently a backend engineering student at Turing School of Software & Design. 
 
-Web Applications
+Basic Web Applications
 - [Task Manager](https://github.com/grantdavis303/task_manager)
-- [Hockey Manager]()
+- [Hockey Manager - Coming Soon]()
 - [Coupon Codes](https://github.com/grantdavis303/coupon_codes)
+
+Working with APIs
+- [Hockey Manager - Coming Soon]()
 
 <!--
 My Time at Turing:
