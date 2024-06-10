@@ -10,6 +10,10 @@ Basic Web Applications
 Working with APIs
 - [Viewing Party - Coming Soon]()
 - [Market Money](https://github.com/grantdavis303/market_money)
+- [Lunch and Learn](https://github.com/grantdavis303/lunch_and_learn)
+
+Group Projects
+- [The Sunken Isles First Mate](https://github.com/The-Sunken-Isles-First-Mate)
 
 <!--
 My Time at Turing:
