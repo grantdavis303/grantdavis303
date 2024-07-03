@@ -1,7 +1,8 @@
 ### Welcome! 👋
 
-My name is Grant and I am currently a backend engineering student at Turing School of Software & Design. 
+My name is Grant and I am currently a backend engineering student at Turing School of Software & Design.
 
+<!--
 Basic Web Applications
 - [Task Manager](https://github.com/grantdavis303/task_manager)
 - [Hockey Manager - Coming Soon]()
