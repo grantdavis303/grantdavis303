@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-My name is Grant and I am currently a backend engineering student at Turing School of Software & Design.
+My name is Grant. Welcome to my GitHub!
 
 <br>
 
