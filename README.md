@@ -10,4 +10,4 @@ As of right now, my current tech stack is:
 - Workflow Tools: Git, Postman, Postico, Heroku
 - Currently Exploring: NodeJS, TypeScript, Python, GraphQL
 
-Here you'll find a collection of projects I'm currently working on or have worked on in the past.
+Here you'll find a collection of projects I'm currently working on or have worked on in the past. Feel free to take a look around and connect with me on [LinkedIn](https://www.linkedin.com/in/grantdavis303/).
