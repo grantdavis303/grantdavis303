@@ -8,6 +8,6 @@ As of right now, my current tech stack is:
 - Languages & Frameworks: HTML, CSS, JavaScript, Ruby, Ruby on Rails, SQL
 - Database Management: MySQL, PostgreSQL
 - Workflow Tools: Git, Postman, Postico, Heroku
-- Currently Exploring: NodeJS, TypeScript, Python, GraphQL
+- Currently Exploring: ReactJS, TypeScript, Python, GraphQL
 
 Here you'll find a collection of projects I'm currently working on or have worked on in the past. Feel free to take a look around and connect with me on [LinkedIn](https://www.linkedin.com/in/grantdavis303/).
