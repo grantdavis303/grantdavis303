@@ -14,7 +14,7 @@ Here you'll find a collection of projects I'm currently working on or have worke
 
 ## Personal Projects
 
-### <a href="https://github.com/grantdavis303/commit_buddy_chrome_extension" class="title" target="_blank"> Commit Buddy (now as a Chrome Extension!) </a>
+### <a href="https://github.com/grantdavis303/commit_buddy_chrome_extension" class="title" target="_blank"> Commit Buddy (now a Chrome Extension!) </a>
 
 A simple JavaScript tool that dynamically creates Git commit commands based on user input.
 
@@ -28,7 +28,7 @@ An educational health and wellness web application that allows users to track th
 
 ## Turing Projects
 
-### <a href="https://github.com/The-Sunken-Isles-First-Mate" class="title" target="_blank"> Sunken Isles First Mate </a>
+### <a href="https://github.com/The-Sunken-Isles-First-Mate/first-mate-fe" class="title" target="_blank"> Sunken Isles First Mate </a>
 
 A responsive web application that supports the Sunken Isles Dungeons & Dragons campaign and allows users to track their campaign progress, villager count, available resources, and owned items.
 
