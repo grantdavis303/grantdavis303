@@ -16,6 +16,8 @@ Here you'll find a collection of projects I'm currently working on or have worke
 
 ### <a href="https://github.com/grantdavis303/commit_buddy_chrome_extension" class="title" target="_blank"> Commit Buddy (now a Chrome Extension!) </a>
 
+[See Commit Buddy in the Chrome Web Store](https://chromewebstore.google.com/detail/commit-buddy/jfidkngbdohmegijjkggecihaokmcgof?authuser=0&hl=en)
+
 A simple JavaScript tool that dynamically creates Git commit commands based on user input.
 
 <img src="./assets/gifs/commit_buddy/commit_buddy_gif.gif" class="screenshot">
