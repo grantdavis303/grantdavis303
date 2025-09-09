@@ -1,0 +1,8 @@
+# GitIgnore
+
+# List all files and directories you wish to ignore.
+# See more here: https://git-scm.com/docs/gitignore
+
+/.env
+/.DS_Store
+**/.DS_Store
