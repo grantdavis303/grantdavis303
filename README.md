@@ -2,14 +2,7 @@
 
 ### Hello, I'm Grant! 👋
 
-I’m a creative marketing professional turned software developer with experience in full-stack web application development.
-
-As of right now, my current tech stack is:
-
-- Languages & Frameworks: HTML, CSS, JavaScript / TypeScript, React, Ruby, Ruby on Rails, SQL
-- Database: PostgreSQL
-- Workflow Tools & Platforms: Git, Postman, Postico, Heroku, AWS (S3, EC2)
-- Currently Exploring: Python, Express.js, Docker
+I'm a software developer with a background in marketing and design, bringing a user-centric mindset, strong communication skills, and attention to detail to full-stack software development. Experienced in building reliable, maintainable applications using React, TypeScript, Node.js, Ruby on Rails, and PostgreSQL, with experience implementing CI/CD pipelines and automated testing. Currently expanding technical skills in Docker and Python to strengthen full-stack development and DevOps knowledge. Passionate about collaborative problem-solving, building well-designed software, and advancing technology that drives exploration, growth, and automation.
 
 Here you'll find a collection of projects I'm currently working on or have worked on in the past. Feel free to take a look around and connect with me on [LinkedIn](https://www.linkedin.com/in/grantdavis303/).
 
