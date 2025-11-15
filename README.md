@@ -1,8 +1,11 @@
 ![github_flatirons_graphic](https://github.com/user-attachments/assets/1c9674fa-a2ea-4080-b313-744d4623d13e)
 
-### Hello, I'm Grant! 👋
+## Hi, I'm Grant! 👋
 
-I'm a software developer with a background in marketing and design, bringing a user-centric mindset, strong communication skills, and attention to detail to full-stack software development. Experienced in building reliable, maintainable applications using React, TypeScript, Node.js, Ruby on Rails, and PostgreSQL, with experience implementing CI/CD pipelines and automated testing. Currently expanding technical skills in Docker and Python to strengthen full-stack development and DevOps knowledge. Passionate about collaborative problem-solving, building well-designed software, and advancing technology that drives exploration, growth, and automation.
+### About Me
+
+Software developer with a background in marketing and design, bringing a user-centric mindset, strong communication skills, and attention to detail to full-stack software development. Experienced in building reliable, maintainable applications using React, TypeScript, Node.js, Ruby on Rails, and PostgreSQL, with experience implementing CI/CD pipelines and automated testing. Currently expanding technical skills in Docker and Python to strengthen full-stack development and DevOps
+knowledge. Passionate about collaborative problem-solving, building scalable software, and advancing technology that drives innovation.
 
 Here you'll find a collection of projects I'm currently working on or have worked on in the past. Feel free to take a look around and connect with me on [LinkedIn](https://www.linkedin.com/in/grantdavis303/).
 
