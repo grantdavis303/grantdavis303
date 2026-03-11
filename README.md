@@ -1,12 +1,10 @@
 ![github_flatirons_graphic](https://github.com/user-attachments/assets/1c9674fa-a2ea-4080-b313-744d4623d13e)
 
-### Hi, I'm Grant! 👋
+## Hi, I'm Grant! 👋
 
-## Summary
+I'm a software developer with professional experience building web applications and RESTful APIs. My background in marketing helps me bring a strong understanding of business requirements and user needs to the world of software. I love learning new languages and frameworks, and building small tools that improve my day-to-day workflow.
 
-I'm a software engineer transitioning from marketing, with hands-on experience building web applications and REST APIs using Ruby on Rails and PostgreSQL. Brings a strong understanding of business requirements and user needs, and is expanding expertise in React, TypeScript, and Node to further strengthen full stack development skills.
-
-Here you'll find a collection of projects I'm currently working on or have worked on in the past. Feel free to take a look around and connect with me on [LinkedIn](https://www.linkedin.com/in/grantdavis303/).
+Here you'll find a collection of projects I'm currently working on or have worked on in the past. Feel free to take a look around and connect with me on [LinkedIn](https://www.linkedin.com/in/grantdavis303/) as well!
 
 ## [Sticky Notes](https://github.com/grantdavis303/sticky_notes)
 
@@ -23,7 +21,7 @@ Here you'll find a collection of projects I'm currently working on or have worke
 
 <div align="center">
   <a href="https://github.com/grantdavis303/commit_buddy_chrome_extension" target="_blank">
-    <img width="700" height="auto" alt="Commit Buddy Chrome Extension" src="https://github.com/user-attachments/assets/8804aeee-63de-4d39-b425-0cb85eeb0f86" />
+    <img width="700" height="auto" alt="Commit Buddy Chrome Extension" src="https://github.com/user-attachments/assets/70d04478-6204-4b81-9057-a95daa14951e" />
   </a>
 </div>
 
